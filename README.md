@@ -6,7 +6,7 @@ Can be plugged in the `aidrivingmodule` and replaces neural network usage with s
 
 ## Installation
 
-1. Clone this repo in a folder on the Raspberry Pi of the car
+1. Clone this repo in a folder (e.g. `~/projects/drivingmodule`) on the Raspberry Pi of the car
 2. Open up the docker compose file in to `~/projects/rttf-edgecar/docker-compose.yml`
 3. Add the cloned directory as a mounted volume. In `aidrivingmodule` under `volumes` add:
 
