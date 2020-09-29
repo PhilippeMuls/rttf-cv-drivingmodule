@@ -1,7 +1,8 @@
 # RTTF_drivingmodule_CV
 
 Simple Computer Vision solution to let the RTTF car complete the track (2020 version)
-Can be plugged in the aidrivingmodule and replaces neural network usage with some easy OpenCV magic to drive the car.
+
+Can be plugged in the `aidrivingmodule` and replaces neural network usage with some easy OpenCV magic to drive the car.
 
 ## Installation
 
