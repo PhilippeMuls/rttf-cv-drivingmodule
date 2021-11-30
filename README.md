@@ -18,7 +18,7 @@ The code in this repo should then be executed when AI driving is enabled on the 
 
 ## config.py
 
-Contains some default values for throttle, angle, location, ... These values can be overwritten with a simple shell command. View [PiComm](https://github.com/SamVanderstraeten/PiComm) project to do this remotely from webpage or Android app.
+Contains some default values for throttle, angle, location, ... These values can be overwritten with a simple shell command. View [PiComm](https://github.com/PXLDigital/rttf-pi-comm) project to do this remotely from webpage or Android app.
 
 ## masks.py
 
