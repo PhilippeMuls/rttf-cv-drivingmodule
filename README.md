@@ -1,4 +1,4 @@
-# RTTF_drivingmodule_CV
+# RTTF CV driving module
 
 Simple Computer Vision solution to let the RTTF car complete the track (2020 version)
 
