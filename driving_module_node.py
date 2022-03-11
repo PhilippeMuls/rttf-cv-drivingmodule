@@ -106,11 +106,6 @@ class DrivingModule():
                 self.wheels_cmd.velocity = throttle
                 self.wheels_cmd.rotation = angle
                 self.pub_car_cmd.publish(self.wheels_cmd)
-            
-                if self.counter % 20 == 0:
-                    rospy.loginfo("[{}] outputs : {}".format(rospy.get_name(), outputs))
-                    self.counter = 0
-                self.counter += 1
 
             except CvBridgeError as e:
                 rospy.logerr("error cvbridge stuff : ", e)
