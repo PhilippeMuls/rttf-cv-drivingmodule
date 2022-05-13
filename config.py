@@ -1,3 +1,3 @@
 ANGLE = 0.54
-THROTTLE = 0.28
+THROTTLE = 0.01
 LOCATION = "outside"
